@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-873-theater-arts-topics-suburbia-january-iap-2008/aca4dabcad2bd5b02a10c41775492ec9_store1.jpg
+file: /media/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/aca4dabcad2bd5b02a10c41775492ec9_store1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A convenience store.
@@ -9,6 +9,11 @@ image_metadata:
   image-alt: An facade of an urban convenience store called The Super Store. On the
     sign, Lucky and Olympia, with a few letters that do not form words, followed by
     $12.99
+learning_resource_types:
+- Readings
+ocw_type: OCWImage
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Image
 title: store1.jpg
 uid: aca4dabc-ad2b-d5b0-2a10-c41775492ec9

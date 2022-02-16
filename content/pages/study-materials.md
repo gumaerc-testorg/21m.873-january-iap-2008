@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: c46098ac-a951-5368-8847-957e3eb956db
 ---
@@ -26,7 +28,7 @@ Set Design
 ----------
 
 The following photos show the evolution of the set design, from initial models to the full-size scenery. All photos are courtesy Eric Levenson, and used with permission.
-{{< image-gallery id="c46098ac-a951-5368-8847-957e3eb956db_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-873-theater-arts-topics-suburbia-january-iap-2008/" >}}
+{{< image-gallery id="c46098ac-a951-5368-8847-957e3eb956db_nanogallery2" baseUrl="/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/" >}}
 {{< image-gallery-item href="7fbc1b02b3d5755fc966d0e63c4e3113_set1.jpg" data-ngdesc="Initial set mockup, straight-on." text="Initial set mockup, straight-on." >}}
 {{< image-gallery-item href="62c2db5f5c10a35f2d749ed9faec435c_set2.jpg" data-ngdesc="" text="" >}}
 {{< image-gallery-item href="b5dded843c81bb2c4a1bf51ff2349713_set3.jpg" data-ngdesc="Initial set mockup, with added painted details." text="Initial set mockup, with added painted details." >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Music
 uid: 569d0458-6307-0446-49c7-319b59fbeff0
 ---

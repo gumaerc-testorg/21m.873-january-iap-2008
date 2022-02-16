@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 10a88f20-361d-048a-b251-3ac7c346aa0a
 ---
@@ -21,7 +24,7 @@ The Offspring. "[The Kids Aren't Alright.](https://www.youtube.com/watch?v=7iNbn
 Idiot Pilot. "A Day in the Life of a Poolshark," "The Violent Tango," and "To Buy a Gun." From _Strange We Should Meet Here_. Bellingham, WA: ClickPop Records, 2004.
 
 The following photos are courtesy Erika Bakse, and used with permission.
-{{< image-gallery id="10a88f20-361d-048a-b251-3ac7c346aa0a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-873-theater-arts-topics-suburbia-january-iap-2008/" >}}
+{{< image-gallery id="10a88f20-361d-048a-b251-3ac7c346aa0a_nanogallery2" baseUrl="/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/" >}}
 {{< image-gallery-item href="ff23012d0f0b07045a9621c13a188536_coffee.jpg" data-ngdesc="" text="A suburban drive-through coffeeshop." >}}
 {{< image-gallery-item href="2494046cbf2173080050b2bad44b2143_horseshoe2.jpg" data-ngdesc="" text="Exterior of the Horseshoe Café." >}}
 {{< image-gallery-item href="272d876d99c6f4a99e480cfbed32c6c6_horseshoe3.jpg" data-ngdesc="" text="Customers outside the Café." >}}
