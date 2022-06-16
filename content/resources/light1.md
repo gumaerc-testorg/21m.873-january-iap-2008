@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/b692195a2bb0cf83c5bfb40e88c72fc2_light1.jpg
+file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/b692195a2bb0cf83c5bfb40e88c72fc2_light1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Traffic lights.
@@ -12,7 +12,12 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 10a88f20-361d-048a-b251-3ac7c346aa0a
 resourcetype: Image
 title: light1.jpg
 uid: b692195a-2bb0-cf83-c5bf-b40e88c72fc2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

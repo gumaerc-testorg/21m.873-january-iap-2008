@@ -1,14 +1,20 @@
 ---
 content_type: page
+description: This section provides study materials on character backstories, the subUrbia
+  program, set design, lighting design, and student reflections on the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: c46098ac-a951-5368-8847-957e3eb956db
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Character Backstories ([PDF]({{< baseurl >}}/resources/characters))
+Character Backstories ({{% resource_link be09ffde-99cd-0435-1bbb-c80c1dbb321c "PDF" %}})
 
-subUrbia Program ([PDF]({{< baseurl >}}/resources/program))
+subUrbia Program ({{% resource_link 6aa41353-e797-0144-5d9f-b6b6fabb8051 "PDF" %}})
 
 Lighting Design
 ---------------
@@ -22,7 +28,7 @@ The following images show lighting plans during different phases of design. Imag
 Student Reflection
 ------------------
 
-OpenCourseWare asked various cast and crew members to contribute their reflections on the production process and result. Jonas Kubilius, actor of Tim, sent us his thoughts. Used with permission. ([TXT](/courses/music-and-theater-arts/21m-873-theater-arts-topics-suburbia-january-iap-2008/study-materials/jonas.txt))
+OpenCourseWare asked various cast and crew members to contribute their reflections on the production process and result. Jonas Kubilius, actor of Tim, sent us his thoughts. Used with permission. ({{% resource_link 5e5d0f18-fd02-c359-e247-20ec8dd0a865 "TXT" %}})
 
 Set Design
 ----------

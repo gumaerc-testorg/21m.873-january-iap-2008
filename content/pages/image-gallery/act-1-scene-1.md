@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains photos from a dress rehearsal of subUrbia.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Image Gallery
@@ -7,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 617b1cd6-3412-4f7d-d2c7-af57b87ab007
 title: Act 1, Scene 1
 uid: e2ce8ee7-57dd-a70d-6953-6b346d0a50ad
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 ### Act 1, Scene 1

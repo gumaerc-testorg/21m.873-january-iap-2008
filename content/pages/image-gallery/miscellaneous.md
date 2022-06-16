@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains photos from a dress rehearsal of subUrbia.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Image Gallery
@@ -7,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 617b1cd6-3412-4f7d-d2c7-af57b87ab007
 title: Miscellaneous
 uid: 842b7c93-d520-0c48-cb9a-65c117952b7b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 ### Miscellaneous

@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, information about
+  grading, and the cast list for the MIT student production of subUrbia.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 9a83d422-5676-a35d-bd75-1b8c7d20b51b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Description

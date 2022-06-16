@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides a reading list to help set the mood for the student
+  production of subUrbia and find inspiration for the set and costuming.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 10a88f20-361d-048a-b251-3ac7c346aa0a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 To help set the mood for the production, and find inspiration for the set and costuming, students gathered a variety of resources.
