@@ -1,7 +1,17 @@
 ---
 content_type: page
+description: This section provides information on the soundtrack for the MIT student
+  production of subUrbia, a mix of covers and original songs.  Includes the song order;
+  some recordings of the original tracks, and videos of the intermission show. All
+  files are provided courtesy of the bands, and used with their permission.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Music
 uid: 569d0458-6307-0446-49c7-319b59fbeff0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 MIT student bands were selected to perform the soundtrack for the show, a mix of covers and original songs. Listed below is the song order; some recordings of the original tracks are provided, along with videos of the intermission show. All files are provided courtesy of the bands, and used with their permission.
