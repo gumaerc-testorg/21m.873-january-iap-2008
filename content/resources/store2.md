@@ -10,6 +10,7 @@ image_metadata:
     an ATM, coffee, and lottery cover the windows and door.
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection

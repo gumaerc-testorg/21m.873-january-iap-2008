@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Eric Levenson. Used with permission.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -21,5 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Details of stage left.
-
-

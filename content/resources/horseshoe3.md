@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Groups of people standing on a dark street in front of a city cafe
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Traffic lights on a dark, cloudy, day in the winter.
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection

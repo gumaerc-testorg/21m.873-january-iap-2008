@@ -4,6 +4,7 @@ description: Backstories for the characters of subUrbia.
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/be09ffde99cd04351bbbc80c1dbb321c_characters.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Backstories for the characters of subUrbia.
-

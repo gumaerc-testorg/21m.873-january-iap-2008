@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A cafe on an urban street at nighttime, people congregating on the street.
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
