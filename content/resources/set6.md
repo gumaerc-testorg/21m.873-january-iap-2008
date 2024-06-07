@@ -2,6 +2,7 @@
 content_type: resource
 description: More details, including the dumpster and pallets.
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/072016d8b1943e7e3587bab9cd02accd_set6.jpg
+file_size: 93308
 file_type: image/jpeg
 image_metadata:
   caption: mage courtesy of Eric Levenson. Used with permission.

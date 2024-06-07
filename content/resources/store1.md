@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/aca4dabcad2bd5b02a10c41775492ec9_store1.jpg
+file_size: 266301
 file_type: image/jpeg
 image_metadata:
   caption: A convenience store.

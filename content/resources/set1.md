@@ -2,6 +2,7 @@
 content_type: resource
 description: Initial set mockup, straight-on.
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/7fbc1b02b3d5755fc966d0e63c4e3113_set1.jpg
+file_size: 118538
 file_type: image/jpeg
 image_metadata:
   caption: Initial set mockup, straight-on.

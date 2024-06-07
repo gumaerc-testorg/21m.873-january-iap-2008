@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/62c2db5f5c10a35f2d749ed9faec435c_set2.jpg
+file_size: 113185
 file_type: image/jpeg
 image_metadata:
   caption: ''

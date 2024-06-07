@@ -2,6 +2,7 @@
 content_type: resource
 description: Initial set mockup, with added painted details.
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/b5dded843c81bb2c4a1bf51ff2349713_set3.jpg
+file_size: 118023
 file_type: image/jpeg
 image_metadata:
   caption: Initial set mockup, with added painted details.

@@ -2,6 +2,7 @@
 content_type: resource
 description: Production notes with feedback from a rehearsal.
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/2efe3477d8d5f37af8295b4941b0dc75_prod4.pdf
+file_size: 16898
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
