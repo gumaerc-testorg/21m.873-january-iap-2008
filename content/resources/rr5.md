@@ -2,6 +2,7 @@
 content_type: resource
 description: Report with feedback from a rehearsal.
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/e384e667069dd3edb18f8f40a320d7ca_rr5.pdf
+file_size: 15012
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

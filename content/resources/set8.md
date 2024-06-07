@@ -2,6 +2,7 @@
 content_type: resource
 description: Past the store, upstage is dimly lit for night scenes.
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/3824e2836c96e06c63658a1a1c07e49c_set8.jpg
+file_size: 84179
 file_type: image/jpeg
 image_metadata:
   caption: Past the store, upstage is dimly lit for night scenes.
