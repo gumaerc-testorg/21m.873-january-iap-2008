@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/ff23012d0f0b07045a9621c13a188536_coffee.jpg
+file_size: 199502
 file_type: image/jpeg
 image_metadata:
   caption: A suburban drive-through coffeeshop.

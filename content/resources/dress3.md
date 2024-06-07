@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes from Dress Rehearsal 3.
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/1a6bdd0505e74bc4603f1c37633bfb94_dress3.pdf
+file_size: 14775
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

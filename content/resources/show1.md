@@ -2,6 +2,7 @@
 content_type: resource
 description: Show report from the first of six student productions of subUrbia.
 file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/36e0ef4ac9f9576e0e44b75b450de544_show1.pdf
+file_size: 12879
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
