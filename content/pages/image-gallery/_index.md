@@ -5,6 +5,7 @@ description: This page contains photos from a dress rehearsal of subUrbia. They 
   Eric Levenson, and are used with permission.
 learning_resource_types: []
 ocw_type: CourseSection
+show_section_pages: true
 title: Image Gallery
 uid: 617b1cd6-3412-4f7d-d2c7-af57b87ab007
 video_files:
