@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes from Dress Rehearsal 1.
-file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/0c07e139b2c6c716dc62ae7476092a6c_dress1.pdf
+file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/0c07e139b2c6c716dc62ae7476092a6c_dress1.pdf
 file_size: 11570
 file_type: application/pdf
 learning_resource_types:

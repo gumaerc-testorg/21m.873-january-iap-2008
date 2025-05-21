@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/b692195a2bb0cf83c5bfb40e88c72fc2_light1.jpg
+file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/b692195a2bb0cf83c5bfb40e88c72fc2_light1.jpg
 file_size: 164146
 file_type: image/jpeg
 image_metadata:

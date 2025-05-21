@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of the final set.
-file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/27fbb56982e8508525623fba6112101a_set4.jpg
+file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/27fbb56982e8508525623fba6112101a_set4.jpg
 file_size: 92177
 file_type: image/jpeg
 image_metadata:

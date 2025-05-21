@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Report with feedback from a rehearsal.
-file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/f95cc11b681cbb537de6f806853a78f6_rr3.pdf
+file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/f95cc11b681cbb537de6f806853a78f6_rr3.pdf
 file_size: 16580
 file_type: application/pdf
 learning_resource_types:
