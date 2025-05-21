@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Details of stage left.\r\n"
-file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/fedde346ed82ab1349f3e55c39323f85_set5.jpg
+file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/fedde346ed82ab1349f3e55c39323f85_set5.jpg
 file_size: 88222
 file_type: image/jpeg
 image_metadata:

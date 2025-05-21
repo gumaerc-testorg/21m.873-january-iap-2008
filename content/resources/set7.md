@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Zoom-in of the convenience store front.
-file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/8ce04ecfda4238df2d340a517939a13d_set7.jpg
+file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/8ce04ecfda4238df2d340a517939a13d_set7.jpg
 file_size: 87549
 file_type: image/jpeg
 image_metadata:
