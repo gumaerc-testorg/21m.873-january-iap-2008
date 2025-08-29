@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Production notes with feedback from a rehearsal.
-file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/b98933630fe452a0fbcf085e5fb17432_prod1.pdf
+file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/b98933630fe452a0fbcf085e5fb17432_prod1.pdf
 file_size: 20817
 file_type: application/pdf
 learning_resource_types:
