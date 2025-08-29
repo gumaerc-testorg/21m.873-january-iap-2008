@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Backstories for the characters of subUrbia.
-file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/be09ffde99cd04351bbbc80c1dbb321c_characters.pdf
+file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/be09ffde99cd04351bbbc80c1dbb321c_characters.pdf
 file_size: 23549
 file_type: application/pdf
 learning_resource_types: []
