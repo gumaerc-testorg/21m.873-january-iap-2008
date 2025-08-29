@@ -44,10 +44,11 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Music",
+    "Music Audio",
     "Image Gallery"
   ],
   "site_uid": "5cc81b57-b5af-42e9-a197-e086e6eab516",
   "site_short_id": "21m.873-january-iap-2008",
+  "site_url_path": "courses/21m-873-theater-arts-topics-suburbia-january-iap-2008",
   "title": "Course Metadata"
 }

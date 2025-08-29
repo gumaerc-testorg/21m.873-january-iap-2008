@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Program for the theatrical production of subUrbia.
-file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/6aa41353e79701445d9fb6b6fabb8051_program.pdf
+file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/6aa41353e79701445d9fb6b6fabb8051_program.pdf
 file_size: 588220
 file_type: application/pdf
 learning_resource_types: []

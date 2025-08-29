@@ -2,7 +2,7 @@
 content_type: resource
 description: Student reflection on the production process and result of Eric Bogosian's
   play "subUrbia."
-file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/5e5d0f18fd02c359e24720ec8dd0a865_jonas.txt
+file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/5e5d0f18fd02c359e24720ec8dd0a865_jonas.txt
 file_size: 3732
 file_type: text/plain
 learning_resource_types: []

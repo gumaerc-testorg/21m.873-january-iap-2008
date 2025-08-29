@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Show report from the second of six student productions of subUrbia.
-file: /courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/8e1b1fc1f29bdf40e298fed8f252bf98_show2.pdf
+file: /ol-ocw-studio-app/courses/21m-873-theater-arts-topics-suburbia-january-iap-2008/8e1b1fc1f29bdf40e298fed8f252bf98_show2.pdf
 file_size: 14581
 file_type: application/pdf
 learning_resource_types:
