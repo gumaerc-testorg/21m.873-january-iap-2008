@@ -15,17 +15,17 @@ video_metadata:
 
 To help set the mood for the production, and find inspiration for the set and costuming, students gathered a variety of resources.
 
-Kilgannon, Cory. "[The Endless Night: Hanging Out in Cars with Boys, and Girls](http://www.nytimes.com/2005/08/21/fashion/sundaystyles/21teens.html)." New York Times, August 21, 2005.
+Kilgannon, Cory. "{{% resource_link "ac4439d3-a7cd-4703-8556-59770645abc0" "The Endless Night: Hanging Out in Cars with Boys, and Girls" %}}." New York Times, August 21, 2005.
 
-LeDuff, Charlie. "[Young In The Burbs; The Life of the Party](http://query.nytimes.com/gst/fullpage.html?res=9502E4DE173FF93AA35757C0A9669C8B63)." New York Times, April 9, 2000.
+LeDuff, Charlie. "{{% resource_link "b54e7967-73c7-45e7-bd62-a05f6d0c8cce" "Young In The Burbs; The Life of the Party" %}}." New York Times, April 9, 2000.
 
 Eve Ensler reading her poem "Leaving My Father's House," from _Insecure At Last_ (2006).
 
-Finley, Karen. "[Limelight NYC](http://www.youtube.com/watch?v=6WHRzxUG4hQ)." YouTube, LLC.
+Finley, Karen. "{{% resource_link "c7fead48-05ee-4f32-93cb-a01dec3bec90" "Limelight NYC" %}}." YouTube, LLC.
 
-Rollins, Henry. "[Liar](http://www.youtube.com/watch?v=fxrd_jZJxkg)." YouTube, LLC.
+Rollins, Henry. "{{% resource_link "592ab14a-d9db-4eb1-9b0b-e99ad74e9c66" "Liar" %}}." YouTube, LLC.
 
-The Offspring. "[The Kids Aren't Alright.](https://www.youtube.com/watch?v=7iNbnineUCI)" YouTube, LLC.
+The Offspring. "{{% resource_link "3da442f9-6111-4a70-b87b-c0f33d942a6d" "The Kids Aren't Alright." %}}" YouTube, LLC.
 
 Idiot Pilot. "A Day in the Life of a Poolshark," "The Violent Tango," and "To Buy a Gun." From _Strange We Should Meet Here_. Bellingham, WA: ClickPop Records, 2004.
 
