@@ -31,14 +31,14 @@ Off White Noise - Moo's so Great she could Probably be Science Fiction ([WAV](/a
 
 Space Faces - U-Mass (Pixies)
 
-kc quilty - Clothes ([MP3](http://kcquilty.angelfire.com/Clothes_mix_3.mp3))
+kc quilty - Clothes ({{% resource_link "4c2cbf87-da4f-409f-b996-9b64a6994f09" "MP3" %}})
 
 The Lemon Squares - Prince
 
 First Half
 ----------
 
-Limited Slip - [Baba O'Riley](http://www.reverbnation.com/main/search_song) (The Who)
+Limited Slip - {{% resource_link "f9903b76-a654-494d-9ce4-9c9716f10d65" "Baba O'Riley" %}} (The Who)
 
 The Lemon Squares - Debaser (Pixies)
 
@@ -72,6 +72,6 @@ Rob Morris - Your Hope ([WAV](/ans7870/21m/21m.873/iap08/music/Rob-Morris--Your-
 
 Off White Noise - Weenie ([WAV](/ans7870/21m/21m.873/iap08/music/Off-White-Noise--Moo's-So-Great-She-Could-Probably-Be-Science-Fiction.wav))
 
-Free Parking - [Suburbia](http://uploading.com/files/MGW3KG2B/Pet_Shop_Boys_-_Suburbia.mp3.html) (Pet Shop Boys)
+Free Parking - {{% resource_link "5ae54510-df88-4228-9145-844f8a975ada" "Suburbia" %}} (Pet Shop Boys)
 
 Limited Slip - The End ([MP3](/ans7870/21m/21m.873/iap08/music/Limited%20Slip-The%20End.mp3))
